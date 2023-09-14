@@ -1,0 +1,14 @@
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/semi/bin/Debug/net7.0/semi
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/semi/bin/Debug/net7.0/semi.deps.json
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/semi/bin/Debug/net7.0/semi.runtimeconfig.json
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/semi/bin/Debug/net7.0/semi.dll
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/semi/bin/Debug/net7.0/semi.pdb
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/semi/obj/Debug/net7.0/semi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/semi/obj/Debug/net7.0/semi.AssemblyInfoInputs.cache
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/semi/obj/Debug/net7.0/semi.AssemblyInfo.cs
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/semi/obj/Debug/net7.0/semi.csproj.CoreCompileInputs.cache
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/semi/obj/Debug/net7.0/semi.dll
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/semi/obj/Debug/net7.0/refint/semi.dll
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/semi/obj/Debug/net7.0/semi.pdb
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/semi/obj/Debug/net7.0/semi.genruntimeconfig.cache
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/semi/obj/Debug/net7.0/ref/semi.dll
