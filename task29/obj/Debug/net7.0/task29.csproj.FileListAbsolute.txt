@@ -1,0 +1,14 @@
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task29/bin/Debug/net7.0/task29
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task29/bin/Debug/net7.0/task29.deps.json
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task29/bin/Debug/net7.0/task29.runtimeconfig.json
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task29/bin/Debug/net7.0/task29.dll
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task29/bin/Debug/net7.0/task29.pdb
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task29/obj/Debug/net7.0/task29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task29/obj/Debug/net7.0/task29.AssemblyInfoInputs.cache
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task29/obj/Debug/net7.0/task29.AssemblyInfo.cs
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task29/obj/Debug/net7.0/task29.csproj.CoreCompileInputs.cache
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task29/obj/Debug/net7.0/task29.dll
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task29/obj/Debug/net7.0/refint/task29.dll
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task29/obj/Debug/net7.0/task29.pdb
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task29/obj/Debug/net7.0/task29.genruntimeconfig.cache
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task29/obj/Debug/net7.0/ref/task29.dll
