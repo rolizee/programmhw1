@@ -6,11 +6,12 @@
 
 int Prompt(string message)
 {
-    System.Console.Write(message) ; //Выводим приглашение ко вводу
-    string readInput = System.Console.ReadLine() ; //Вводим значение
+    System.Console.Write(message); //Выводим приглашение ко вводу
+    string readInput = System.Console.ReadLine(); //Вводим значение
     int result = int.Parse(readInput); //Приводим к числу
     return result; //Возвращаем результат
 }
+
 int Power(int powerBase, int exponent)
 {
     int power = 1;
@@ -20,14 +21,17 @@ int Power(int powerBase, int exponent)
     }
     return power;
 }
+
 bool ValidateExponent(int exponent)
 {
     if (exponent < 0)
     {
-        System.Console.WriteLine("Показательне должен быть меньше нуля");
+        System.Console.WriteLine("Показатель не должен быть меньше нуля");
         return false;
     }
+    return true;
 }
+
 int powerBase = Prompt("Введите основание: ");
 int exponent = Prompt("Введите показатель: ");
 if (ValidateExponent(exponent))
