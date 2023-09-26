@@ -4,7 +4,7 @@
 [-4, -6, 89, 6] -> 0
 */
 
-int size = 8;
+int size = 4;
 int[] numbers = new int[size];
 FillArrayRandomNumbers(numbers);
 PrintArray(numbers);

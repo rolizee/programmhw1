@@ -1,0 +1,4 @@
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task38/obj/Debug/net7.0/task38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task38/obj/Debug/net7.0/task38.AssemblyInfoInputs.cache
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task38/obj/Debug/net7.0/task38.AssemblyInfo.cs
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task38/obj/Debug/net7.0/task38.csproj.CoreCompileInputs.cache
