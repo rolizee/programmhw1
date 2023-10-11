@@ -1,0 +1,14 @@
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task68/obj/Debug/net7.0/task68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task68/obj/Debug/net7.0/task68.AssemblyInfoInputs.cache
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task68/obj/Debug/net7.0/task68.AssemblyInfo.cs
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task68/obj/Debug/net7.0/task68.csproj.CoreCompileInputs.cache
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task68/bin/Debug/net7.0/task68
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task68/bin/Debug/net7.0/task68.deps.json
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task68/bin/Debug/net7.0/task68.runtimeconfig.json
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task68/bin/Debug/net7.0/task68.dll
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task68/bin/Debug/net7.0/task68.pdb
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task68/obj/Debug/net7.0/task68.dll
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task68/obj/Debug/net7.0/refint/task68.dll
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task68/obj/Debug/net7.0/task68.pdb
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task68/obj/Debug/net7.0/task68.genruntimeconfig.cache
+/Users/rolize/Desktop/Studies Rolize/Знакомство с языками программирования/Seminar1/task68/obj/Debug/net7.0/ref/task68.dll
